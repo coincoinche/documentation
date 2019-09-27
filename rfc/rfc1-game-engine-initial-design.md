@@ -57,4 +57,4 @@ For now, we only need 2 types of events for the game engine:
 - CardPlayedEvent: when a player plays a card.
 
 The following diagram details the structure of the game engine reflecting this decisions:
-https://drive.google.com/file/d/1wI5F0YG8uzwBsdWY00vtG_mSPqNGUG29/view?usp=sharing
+![name](./rfc1-class-diagram.png)
